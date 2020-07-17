@@ -1,0 +1,3 @@
+Developed a network scanning detection system by parsing log files generated using tcpdump in Linux and looked for signs of network scan with the help of NMAP
+Acquired 100% results in determining scanning activity using python script by sequentially reading all traffic log files
+
