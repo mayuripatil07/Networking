@@ -1,0 +1,3 @@
+Created a profile for DNS intrusion system with Python and VMware workstation to detect unique DNS requests
+Revised DNS proxy code responsible for running DNS server to block irrelevant ads and identity trackers
+Achieved up to 95% accuracy by returning fake IP for blacklisted websites to prevent loading any irrelevant resources
